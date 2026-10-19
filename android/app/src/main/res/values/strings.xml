@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Husen Mudi Dokan</string>
+    <string name="title_activity_main">Husen Mudi Dokan</string>
+    <string name="package_name">com.husen.mudidokan</string>
+    <string name="custom_url_scheme">com.husen.mudidokan</string>
+</resources>
